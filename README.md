@@ -5,11 +5,8 @@ Use this repo to start a project with react-native, [react-native-material-ui](h
 Type
 ```
 npm install
-
 ```
 and
 ```
-
 react-native link react-native-vector-icons 
-
 ```
